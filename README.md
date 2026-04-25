@@ -1,27 +1,159 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Sandeep Chaudhary</h1>
-<h3 align="center">A passionate Software Engineer from Noida,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy91115&label=Profile%20views&color=0e75b6&style=flat" alt="sandy91115" /> </p>
+<h3 align="center">
+  Software Engineer | Laravel Developer | Full-Stack Web Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandy91115" alt="sandy91115" /></a> </p>
-
-- 📫 How to reach me **sandeepchaudhary46140@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sandeepchaudhary-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepchaudhary46140/" height="30" width="40" /></a>
-<a href="https://instagram.com/i.m_sandy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.m_sandy_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sandy91115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sandy91115" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sandy99999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandy99999/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sandy69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sandy69" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Laravel+%26+React+Web+Applications;Creating+Admin+Panels%2C+Dashboards+%26+SaaS+Products;Learning+AI+Automation+%26+Scalable+Backend+Systems" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandy91115&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandy91115&show_icons=true&locale=en&layout=compact" alt="sandy91115" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandy91115&show_icons=true&locale=en" alt="sandy91115" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandy91115&" alt="sandy91115" /></p>
+I am a **Software Engineer** focused on building real-world web applications with clean backend logic, modern UI, and scalable architecture.
 
+My main stack is **Laravel, PHP, MySQL, JavaScript, React, Tailwind CSS, Bootstrap, and REST APIs**.
+
+I like building systems that solve actual business problems — not just landing pages.
+
+- 🔭 Currently working on **Laravel, React, ecommerce systems, and AI SaaS ideas**
+- 🌱 Learning **system design, microservices, AI automation, and cloud deployment**
+- 💼 Interested in **SaaS products, dashboards, CRM systems, admin panels, and automation tools**
+- 🧠 Strong focus on **backend logic, database design, APIs, and clean UI**
+- 📫 Reach me at **sandeepchaudhary46140@gmail.com**
+
+---
+
+## 🧩 What I Build
+
+- 🛒 Ecommerce websites and product management systems  
+- 📊 Admin dashboards and analytics panels  
+- 🧾 CRM, membership, and management systems  
+- ⚙️ REST APIs and backend services  
+- 🖼️ Image upload, optimization, and media library systems  
+- 🤖 AI automation-based SaaS platforms  
+- 🌐 Modern responsive websites using React and Tailwind CSS  
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,sqlite" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma" />
+</p>
+
+---
+
+## 🔥 Featured Work Focus
+
+### Laravel Development
+I build Laravel-based applications with proper MVC structure, authentication, database relationships, admin panels, file uploads, and API integration.
+
+### Full-Stack Web Apps
+I work on both frontend and backend to create complete systems from database design to deployment.
+
+### AI + Automation
+I am exploring AI automation, SaaS products, AI-powered dashboards, and business automation tools.
+
+---
+
+## 📌 Current Learning Goals
+
+- Advanced Laravel architecture  
+- REST API best practices  
+- Queue, cache, and job processing  
+- Redis and Laravel Horizon  
+- React + Tailwind frontend systems  
+- AI automation and SaaS product development  
+- Deployment, hosting, and production optimization  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sandeepchaudhary-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Chaudhary-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:sandeepchaudhary46140@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/i.m_sandy_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-i.m__sandy__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 Coding Profiles
+
+<p>
+  <a href="https://www.hackerrank.com/sandy91115" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-sandy91115-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <a href="https://www.leetcode.com/sandy99999/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-sandy99999-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/sandy69" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-sandy69-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sandy91115&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy91115&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandy91115&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandy91115&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+## ⚡ My Developer Mindset
+
+> I believe good software is not just about writing code.  
+> It is about solving real problems, creating clean systems, and continuously improving the product.
+
+---
+
+<h3 align="center">Thanks for visiting my profile 🚀</h3>
