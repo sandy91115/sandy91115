@@ -318,7 +318,7 @@ Designing and developing scalable web applications, business management systems,
 
 ---
 
-# Contribution Snake
+# Contribution 
 
 <div align="center">
 
