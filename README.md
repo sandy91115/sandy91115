@@ -5,7 +5,7 @@ REST APIs, SaaS Architecture, and AI Automation.
 
 ### Tech Stack
 
-Laravel • PHP • MySQL • Redis • React • TypeScript • Docker
+Laravel • PHP • MySQL • Redis • React • TypeScript • Docker • Nest
 
 ### Connect
 
